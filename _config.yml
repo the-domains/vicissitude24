@@ -1,0 +1,23 @@
+name: vicissitude24
+favicon: null
+layout_spectrum: 0.48513569589704275
+typography_spectrum: 0.6382113136351109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8155869501642883
+  lightness: 0.7264290479943156
+  saturation: 0.7187100870069116
+  rhythmicContrast: 0.539219472091645
+purpose: []
